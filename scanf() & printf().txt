@@ -1,0 +1,12 @@
+Enter an integer: 42
+Enter a float value: 3.1415
+Enter a double value: 2.71828
+Enter a single character: A
+Enter a string (name): User
+
+--- Output ---
+Integer entered  : 42
+Float entered    : 3.14
+Double entered   : 2.72
+Character entered: A
+String entered   : User
